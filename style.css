@@ -1,7 +1,7 @@
 body{
-  background-image: url("https://images.unsplash.com/photo-1482775907821-a56ec43344fc?dpr=3&amp");
+  /*background-image: url("https://images.unsplash.com/photo-1482775907821-a56ec43344fc?dpr=3&amp");
   background-size:180%;
-  color: white;
+  color: white;*/
   font-family: 'Chela One', cursive;
 }
 
@@ -10,5 +10,5 @@ h2{
 }
 
 .text-center{
-  color: white;
+  color: black;
 }
